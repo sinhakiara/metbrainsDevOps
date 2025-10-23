@@ -2,3 +2,4 @@ api_key.txt
 venv/
 *.go
 !code1.go
+new.txt
